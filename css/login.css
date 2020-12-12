@@ -106,12 +106,17 @@ p.wrapper {
     padding-bottom: 20px;
     }
 }
+@media (min-width: 576px) and (max-width: 767px) {
+    .sc-gplus {
+    padding-bottom: 20px;
+    }
+}
 @media (min-width: 480px) and (max-width: 575px) {
     .sc-gplus {
     padding-bottom: 20px;
     }
 }
-@media (min-width: 576px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 479px) {
     .sc-gplus {
     padding-bottom: 20px;
     }

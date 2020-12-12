@@ -97,6 +97,7 @@ p.p_content {
     font-size: 14px;
     line-height: 1.5;
     color: #888;
+    padding: 10px;
 }
 .card {
     border-color: #E13427;
