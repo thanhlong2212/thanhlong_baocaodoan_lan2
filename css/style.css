@@ -513,7 +513,7 @@ span.bds_icon {
     float: left;
     margin-left: 5px;
     margin-bottom: 0;
-    width: 127px;
+    width: 161px;
     }
     label.search_field_item_label {
     display: block;
@@ -581,6 +581,12 @@ span.bds_icon {
     text-align: center;
     padding: 30px;
     }
+    .search_field_item.search_field_item {
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 0;
+    width: 215px;
+    }
 }
 @media (min-width: 320px) and (max-width: 479px) {
     .whyus_countup.clearfix {
@@ -612,8 +618,14 @@ span.bds_icon {
     .col-md-12.footer-bottom {
     padding: 15px;
     }
+    .search_field_item.search_field_item {
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 0;
+    width: 215px;
+    }
 }
-@media (max-width: 1023px) {
+@media (max-width: 1199px) {
     .nav__bars-btn {
         display: block;
     }
